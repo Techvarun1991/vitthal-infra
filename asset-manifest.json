@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/vitthal-infra/static/css/main.02f51185.css",
+    "main.js": "/vitthal-infra/static/js/main.60e27090.js",
+    "static/js/453.f17484ef.chunk.js": "/vitthal-infra/static/js/453.f17484ef.chunk.js",
+    "static/media/slick.svg": "/vitthal-infra/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/vitthal-infra/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/vitthal-infra/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/vitthal-infra/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/vitthal-infra/index.html",
+    "main.02f51185.css.map": "/vitthal-infra/static/css/main.02f51185.css.map",
+    "main.60e27090.js.map": "/vitthal-infra/static/js/main.60e27090.js.map",
+    "453.f17484ef.chunk.js.map": "/vitthal-infra/static/js/453.f17484ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f51185.css",
+    "static/js/main.60e27090.js"
+  ]
+}
