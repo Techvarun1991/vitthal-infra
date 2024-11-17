@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://Techvarun1991.github.io/vitthal-infra",
   "dependencies": {
+    "@headlessui/react": "^2.2.0",
+    "@heroicons/react": "^2.1.5",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -42,6 +44,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.20",
+    "daisyui": "^4.12.14",
     "gh-pages": "^6.2.0",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.15"

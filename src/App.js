@@ -1,14 +1,21 @@
 import React from 'react';
 import Hero from './components/Hero';
-import EquipmentCarousel from './components/EquipmentCarousel';
-import ProjectsCarousel from './components/ProjectsCarousel';
+import Partners from './components/Partners';
+import Features from './components/Features';
+import Products from './components/Products';
+import Footer from './components/Footer';
+import HeroCarousel from './components/HeroCarousel';
+
 
 function App() {
   return (
     <div>
-      <Hero />
-      <EquipmentCarousel />
-      <ProjectsCarousel />
+      <Hero></Hero>
+      <HeroCarousel />
+      <Features />
+      <Products />
+      <Partners></Partners>
+      <Footer />
     </div>
   );
 }
