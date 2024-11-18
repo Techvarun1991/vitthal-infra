@@ -49,7 +49,7 @@ const items = [
 
 export default function Showcase() {
   return (
-    <div className="bg-gray-100 py-24 sm:py-32">
+    <div className="py-24 sm:py-32">
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-4xl font-semibold text-gray-900 sm:text-5xl">
