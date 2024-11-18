@@ -30,7 +30,7 @@ const items = [
   {
     id: 4,
     image: picture8,
-    title: 'Footpath Contracts',
+    title: 'Paver Block Contracts',
     description: 'Ensuring safe and beautiful pathways for public spaces.',
   },
   {
