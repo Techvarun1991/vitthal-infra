@@ -1,19 +1,28 @@
 {
   "files": {
-    "main.css": "/vitthal-infra/static/css/main.02f51185.css",
-    "main.js": "/vitthal-infra/static/js/main.63fecff0.js",
+    "main.css": "/vitthal-infra/static/css/main.ad82f922.css",
+    "main.js": "/vitthal-infra/static/js/main.fd9d4a6b.js",
     "static/js/453.f17484ef.chunk.js": "/vitthal-infra/static/js/453.f17484ef.chunk.js",
-    "static/media/slick.svg": "/vitthal-infra/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/vitthal-infra/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/vitthal-infra/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/vitthal-infra/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/9.jpg": "/vitthal-infra/static/media/9.4bff756ed62659fa8d5f.jpg",
+    "static/media/2.jpeg": "/vitthal-infra/static/media/2.761a3e3774e0d1e98697.jpeg",
+    "static/media/3.jpeg": "/vitthal-infra/static/media/3.46d49df6d2620ad6c8e1.jpeg",
+    "static/media/5.jpeg": "/vitthal-infra/static/media/5.48310b3d14ce73824ab8.jpeg",
+    "static/media/Picture1-removebg-preview.png": "/vitthal-infra/static/media/Picture1-removebg-preview.91453669486e2d0f677f.png",
+    "static/media/bg.png": "/vitthal-infra/static/media/bg.09b3bd536b954e646b75.png",
+    "static/media/6.jpeg": "/vitthal-infra/static/media/6.e6df269b3b84c1cea258.jpeg",
+    "static/media/8.webp": "/vitthal-infra/static/media/8.672cc94c9a2dcda6b247.webp",
+    "static/media/4.jpeg": "/vitthal-infra/static/media/4.127ec3b6701276202d11.jpeg",
+    "static/media/1.jpeg": "/vitthal-infra/static/media/1.0f778bfd15bbbf4cb256.jpeg",
+    "static/media/Picture2-removebg-preview.png": "/vitthal-infra/static/media/Picture2-removebg-preview.e901ea564da89545301e.png",
+    "static/media/Picture5-removebg-preview.png": "/vitthal-infra/static/media/Picture5-removebg-preview.6495bd224c75b8009415.png",
+    "static/media/Picture4-removebg-preview.png": "/vitthal-infra/static/media/Picture4-removebg-preview.575e4d5e5ddc99c8da58.png",
     "index.html": "/vitthal-infra/index.html",
-    "main.02f51185.css.map": "/vitthal-infra/static/css/main.02f51185.css.map",
-    "main.63fecff0.js.map": "/vitthal-infra/static/js/main.63fecff0.js.map",
+    "main.ad82f922.css.map": "/vitthal-infra/static/css/main.ad82f922.css.map",
+    "main.fd9d4a6b.js.map": "/vitthal-infra/static/js/main.fd9d4a6b.js.map",
     "453.f17484ef.chunk.js.map": "/vitthal-infra/static/js/453.f17484ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02f51185.css",
-    "static/js/main.63fecff0.js"
+    "static/css/main.ad82f922.css",
+    "static/js/main.fd9d4a6b.js"
   ]
 }
